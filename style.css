@@ -1,0 +1,88 @@
+@media(max-width: 768px){
+    .principal{
+        display: block;
+        padding: 10px;
+        margin: 5px 10px;
+    }
+}
+
+
+body{
+    text-align:center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #242a30;
+    color: aliceblue;
+    margin:0px;
+}
+
+.text-ada{
+    font-style: italic;
+    font-size: 40px;
+}
+
+h3{
+    font-size: 30px;
+    font-style: italic;
+
+}
+
+body{
+    max-width: 60%;
+    margin: auto;
+}
+
+
+
+
+p{
+    line-height: 1.5;
+    font-size: 20px;
+}
+
+img{
+    width: 60%;
+    border: white 2px solid;
+    border-radius: 4px;
+
+}
+
+ul{
+    list-style-type: none;
+    line-height: 2;
+}
+
+a{
+    text-decoration: none;
+    color:rgb(5, 184, 255);
+    font-weight: 700;
+}
+
+.principal{
+    background:#be735e;
+    border-radius: 0%;
+    height: 40px;
+    max-width: 60%;
+    margin: 0 auto;
+}
+.principal ul li a{
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration: underline;
+    font-weight: normal;
+    display:inline-block;
+}
+
+.principal li{
+    display:inline-block;
+    line-height: 2.5;
+    margin:0 20px;
+}
+
+.formulario button{
+    background: #41f341;
+    border: 1px solid transparent;
+    padding: 2px 20px;
+    border-radius: 3px;
+}
+
+
